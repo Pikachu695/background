@@ -1,4 +1,3 @@
-折纸信笺
 https://cdn.jsdelivr.net/gh/butter255/05tc/zzxj01.png
 https://cdn.jsdelivr.net/gh/butter255/05tc/zzxj02.png
 https://cdn.jsdelivr.net/gh/butter255/05tc/zzxj03.png
@@ -21,7 +20,6 @@ https://cdn.jsdelivr.net/gh/butter255/05tc/11eyes003.png
 https://cdn.jsdelivr.net/gh/butter255/05tc/applegirl01.png
 https://cdn.jsdelivr.net/gh/butter255/05tc/applegirl02.png
 https://cdn.jsdelivr.net/gh/butter255/05tc/applegirl03.png
-岛
 https://cdn.jsdelivr.net/gh/butter255/05tc/sub005al.png
 https://cdn.jsdelivr.net/gh/butter255/05tc/sum003aL.png
 https://cdn.jsdelivr.net/gh/butter255/05tc/man004bl.png
@@ -43,7 +41,6 @@ https://cdn.jsdelivr.net/gh/butter255/05tc/win001a.png
 https://cdn.jsdelivr.net/gh/butter255/05tc/win004aL.png
 https://cdn.jsdelivr.net/gh/butter255/05tc/win015a.png
 https://cdn.jsdelivr.net/gh/butter255/05tc/win019a.png
-近月
 https://cdn.jsdelivr.net/gh/butter255/05tc/asa03a.png
 https://cdn.jsdelivr.net/gh/butter255/05tc/bg40bl.png
 https://cdn.jsdelivr.net/gh/butter255/05tc/est03b.png
